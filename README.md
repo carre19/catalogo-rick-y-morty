@@ -1,8 +1,8 @@
-# Catálogo Rick and Morty
+# Catálogo Rick y Morty
 
 **Alumno:** Gianluca Carrara
 
-Catálogo de personajes de Rick and Morty hecho con React, React Router y Ant Design, consumiendo datos en vivo desde una API pública.
+Catálogo de personajes de Rick y Morty hecho con React, React Router y Ant Design, consumiendo datos en vivo desde una API pública.
 
 ## Cómo correr el proyecto
 

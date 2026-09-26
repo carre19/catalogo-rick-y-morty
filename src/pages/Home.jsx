@@ -6,9 +6,9 @@ const { Title, Paragraph } = Typography;
 export default function Home() {
   return (
     <div style={{ maxWidth: 700, margin: "40px auto", padding: "0 16px" }}>
-      <Title>Catálogo de Rick and Morty</Title>
+      <Title>Catálogo de Rick y Morty</Title>
       <Paragraph>
-        Explorá los personajes del universo de Rick and Morty usando datos
+        Explorá los personajes del universo de Rick y Morty usando datos
         traídos en vivo desde la{" "}
         <a
           href="https://rickandmortyapi.com/documentation"
